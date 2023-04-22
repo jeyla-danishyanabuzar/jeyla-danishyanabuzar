@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
 
-<img src="![Purple Beige Minimalist Motivational Quotes Finding Yourself Twitter Header (1)](https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png)
-" alt="profile picture">
+<img src="https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png" alt="profile picture">
 
 - 🔭 I’m currently working on **a web projects that will help people manage their tasks more efficiently**
 - 🌱 I’m currently learning **Python**
