@@ -5,7 +5,7 @@
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
-<p align="left"><img src="https://custom-icon-badges.demolab.com/github/stars/jeyla-danishyanabuzar/custom-icon-badges?logo=star"></p>
+<p align="center"><img src="https://custom-icon-badges.demolab.com/github/stars/Denver_Coder1/custom-icon-badges?logo=star"></p>
 
 <img src="https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png" alt="profile picture">
 
