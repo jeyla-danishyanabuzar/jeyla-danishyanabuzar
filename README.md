@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
 
-<h1 align="left">About me:</h1>
 - 🔭 I’m currently working on **a web projects that will help people manage their tasks more efficiently**
 - 🌱 I’m currently learning **Python**
 - 📝 I regularly create posts on [uiverse.io](uiverse.io)
