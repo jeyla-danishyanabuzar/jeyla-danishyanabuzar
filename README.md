@@ -2,7 +2,6 @@
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
-<p><a href="https://twitter.com/jeyla_content" target="blank"><img src="https://img.shields.io/twitter/follow/jeyla_content?logo=twitter&style=for-the-badge" alt="jeyla_content" /></a></p><br>
 
 - 🔭 I’m currently working on **a web projects that will help people manage their tasks more efficiently**
 - 🌱 I’m currently learning **Python**
