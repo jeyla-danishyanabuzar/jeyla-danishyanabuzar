@@ -32,4 +32,16 @@
   
 <p>&nbsp;<img align="left" src="https://user-images.githubusercontent.com/34037962/233811462-9a3eed62-8add-438c-a2e2-db08ecd6a844.svg" alt="jeyla-danishyanabuzar" /></p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jeyla-danishyanabuzar&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
