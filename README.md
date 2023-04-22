@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hand wave" width="30px" height="30px">, I'm Jeyla</h1>
 
-<strong><code>Digital wizard (💻Front-End Developer/ 📝Creator / 📏UI Designer)</code></strong>
+<strong><code>Digital wizard (💻Front-End Developer/ 📝Creator / 📏UI Designer / 📈 SMM Specialist)</code></strong>
 
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
