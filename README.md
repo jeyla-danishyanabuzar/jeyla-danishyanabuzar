@@ -2,7 +2,7 @@
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar)](https://github.com/jeyla-danishyanabuzar/github-readme-stats)" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar" /> </p>
 
 <img src="https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png" alt="profile picture">
 
