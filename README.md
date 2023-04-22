@@ -30,5 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyla-danishyanabuzar&show_icons=true&locale=en&layout=compact" alt="jeyla-danishyanabuzar" /><p><br><br><br><br><br><br>
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&show_icons=true&locale=en" alt="jeyla-danishyanabuzar" /></p>
+<p>&nbsp;<img align="left" src="https://user-images.githubusercontent.com/34037962/233811462-9a3eed62-8add-438c-a2e2-db08ecd6a844.svg" alt="jeyla-danishyanabuzar" /></p>
+
 
