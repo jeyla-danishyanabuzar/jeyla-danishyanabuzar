@@ -23,8 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jeyladanishyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jeyladanishyan" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyla-danishyanabuzar&show_icons=true&locale=en&layout=compact" alt="jeyla-danishyanabuzar" /><p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyla-danishyanabuzar&show_icons=true&locale=en&layout=compact" alt="jeyla-danishyanabuzar" /><p><br><br><br><br><br><br>
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&show_icons=true&locale=en" alt="jeyla-danishyanabuzar" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&" alt="jeyla-danishyanabuzar" />
+<br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&" alt="jeyla-danishyanabuzar" />
 </p>
