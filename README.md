@@ -15,7 +15,7 @@
 - ⚡ Fact about me **I'm a fluent speaker of three languages: English, Russian and Azerbaijani.**
 <hr>
 
-## Connect with me:
+## mailbox:mailbox:Connect with me:
 <p align="left">
 <a href="https://twitter.com/jeyla_content" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeyla_content" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeyla-danishyan-abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyla-danishyan-abuzar" height="30" width="40" /></a>
