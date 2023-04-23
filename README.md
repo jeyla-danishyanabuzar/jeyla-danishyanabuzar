@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hand wave" width="30px" height="30px">, I'm Jeyla</h1>
 
-<strong><code>Digital wizard (💻Front-End Developer/ 📝Creator / 📏UI Designer / 📈 SMM Specialist)</code></strong>
+<strong><code> 💻Front-End Developer/ 📝Creator / 📏UI Designer / 📈 SMM Specialist)</code></strong>
 
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
@@ -9,6 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png" alt="profile picture">
 
+## <img align="left" width="30" height="30" alt="About me:" src="https://user-images.githubusercontent.com/34037962/233849646-dca1054a-4667-441b-86fc-9fd0b0542e9a.png" />About me:
 - 🔭 I’m currently working on **a web projects that will help people manage their tasks more efficiently**
 - 🌱 I’m currently learning **Python**
 - 📝 I regularly create posts on [uiverse.io](uiverse.io)
@@ -29,7 +30,7 @@
 <a href="https://dev.to/jeyladanishyanabuzar" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jeyla-danishyan-abuzar" target="_blank">
+<a href="https://linkedin.com/in/jeyla-danishyan-abuzar-b2a6a1169/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/jeyladanishyanabuzar" target="_blank">
@@ -61,4 +62,17 @@
 
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FE667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=000000&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true&layout=default" alt="Top Languages">
 
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=E34D27&text_color=000000&icon_color=FE667D&ring_color=5A427F&border_color=000000&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true" alt="Stats">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=E34D27&text_color=000000&icon_color=FE667D&ring_color=5A427F&border_color=000000&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true" alt="Stats"><br><br><br><br><br><br><br><br><br>
+
+##
+<details align="left">
+ <summary>:zap:Latest Blog Posts:</summary>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
+
+<details align="left">
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
