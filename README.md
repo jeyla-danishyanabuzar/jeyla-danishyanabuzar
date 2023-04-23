@@ -19,9 +19,18 @@
 
 ## <img align="left" width="30" height="30" alt="Connect with me:" src="https://user-images.githubusercontent.com/34037962/233839823-6443c851-e985-4c08-a5e2-fbb1852d9e17.png"/>Connect with me:
 
-<a href="https://twitter.com/jeyla_content" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeyla_content" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeyla-danishyan-abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyla-danishyan-abuzar" height="30" width="40" /></a>
-<a href="https://instagram.com/@jeyla_danishyan_abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jeyla_danishyan_abuzar" height="30" width="40" /></a><br><br>
+<div>
+<a href="mailto:ceylazu047@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jeyla-danishyan-abuzar-b2a6a1169" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" target="_blank"></a>
+<a href="https://github.com/jeyla-danishyanabuzar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+" target="_blank"></a>
+<a href="https://discord.gg/1096558250750640158" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/jeyla_content" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+" target="_blank"></a>
+<a href="https://dev.to/jeyladanishyanabuzar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+" target="_blank"></a>
+</div>
 
 
 ## <img align="left" width="30" height="30" alt="Languages and Tools" src="https://user-images.githubusercontent.com/34037962/233839048-89cbc431-7ab6-4da5-988e-e83885ba1433.png"/>Languages and Tools:
