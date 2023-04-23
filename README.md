@@ -30,6 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jeyladanishyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jeyladanishyan" /></a></p><br><br><br>
 
 ## 📊 GitHub Stats:
-<img alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 
-![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true)
+![jeyla-danishyanabuzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true&layout=compact#gh-dark-mode-only)
+
+![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true#gh-dark-mode-only)
