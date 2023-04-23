@@ -34,3 +34,7 @@
 ![jeyla-danishyanabuzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true&layout=compact#gh-dark-mode-only)
 
 ![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true#gh-dark-mode-only)
+
+![jeyla-danishyanabuzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true&layout=compact#gh-light-mode-only)
+
+![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=00000000&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true#gh-light-mode-only)
