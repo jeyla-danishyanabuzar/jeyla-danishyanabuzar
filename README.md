@@ -32,5 +32,8 @@
 ## 📊 GitHub Stats:
 <img alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 
+![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![jeyla-danishyanabuzar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=dracula&hide_border=true)
+
 <img alighn="left" witdth="47%" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
 <img alighn="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" />
