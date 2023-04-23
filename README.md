@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyla-danishyanabuzar&label=Profile%20views&color=0e75b6&style=flat" alt="jeyla-danishyanabuzar" /> </p>
 
+
 <img src="https://user-images.githubusercontent.com/34037962/233807723-fa803711-ea9f-4baf-8c99-2e831a9e1279.png" alt="profile picture">
 
 - 🔭 I’m currently working on **a web projects that will help people manage their tasks more efficiently**
@@ -31,6 +32,5 @@
 ## 📊 GitHub Stats:
 <p alight="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 
-<p alight="left"><img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"></p>
-<p alight="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false"></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" />
