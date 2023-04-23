@@ -32,8 +32,4 @@
 ## 📊 GitHub Stats:
 <img alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 
-![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![jeyla-danishyanabuzar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=dracula&hide_border=true)
-
-<img alighn="left" witdth="47%" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
-<img alighn="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" />
+![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=FFFFFF&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=000000&border_radiust=4.5&show_icons=true&hide_border=true&count_private=true)
