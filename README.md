@@ -1,6 +1,10 @@
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hand wave" width="30px" height="30px">, I'm Jeyla</h1>
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hand wave" width="30px" height="30px">, I'm <strong><code style="backgroung:B79688;">Jeyla</code></strong></h1>
 
-<strong><code> 💻Front-End Developer/ 📝Creator / 📏UI Designer / 📈 SMM Specialist)</code></strong>
+- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233857695-9ec287a2-a1e3-4c97-83ba-880c46a4a6e6.png"/>Front-End Developer 
+- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858123-24e203e4-6f8d-4f59-b71a-a8d56a38e118.png" />UI Designer 
+- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858301-fcaa1d0b-b679-4883-988e-7991afc46bfc.png"/>Creator 
+- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858555-6c4f59ee-0f83-41d9-926f-a97d875d8ebe.png" />SMM Specialist
+
 
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
 
@@ -53,16 +57,17 @@
 <img align="left" alt="Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div><br><br>
+</div><br><br><br>
 
-## Support:
+## <img align="left" width="30" height="30" alt="Languages and Tools" src="https://user-images.githubusercontent.com/34037962/233857123-d9c198b4-d374-492d-b23a-e9f6045d131d.png"/> Support:
+
 <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jeyladanishyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jeyladanishyan" /></a><br><br><br>
 
 ## <img align="left" width="30" height="30" alt="GitHub Stats" src="https://user-images.githubusercontent.com/34037962/233839446-962c4df9-c9d2-4f84-a9fa-5a34f8e71be9.png"/>GitHub Stats:
 
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FE667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=000000&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true&layout=default" alt="Top Languages">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FE667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=999999&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true&layout=default" alt="Top Languages">
 
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=E34D27&text_color=000000&icon_color=FE667D&ring_color=5A427F&border_color=000000&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true" alt="Stats"><br><br><br><br><br><br><br><br><br>
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=E34D27&text_color=000000&icon_color=FE667D&ring_color=5A427F&border_color=999999&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true" alt="Stats"><br><br><br><br><br><br><br><br><br>
 
 ##
 <details align="left">
