@@ -31,6 +31,6 @@
 
 ## 📊 GitHub Stats:
 
-![jeyla-danishyanabuzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=ffffff&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=1E1E1E&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true&layout=compact#gh-light-mode-only)
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&title_color=FE667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true&layout=default" alt="Top Languages">
 
-![jeyla-danishyanabuzar's Stats](https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FF667D&text_color=ffffff&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=1E1E1E&border_radiust=4.5&show_icons=true&hide_border=false&count_private=true#gh-light-mode-only)
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&title_color=FE667D&text_color=000000&icon_color=FE667D&ring_color=FE667D&border_color=e4e2e2&bg_color=FFFFFF&border_radiust=6&show_icons=true&hide_border=false&count_private=true" alt="Stats">
