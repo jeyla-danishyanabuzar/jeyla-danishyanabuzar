@@ -31,5 +31,5 @@
 ## 📊 GitHub Stats:
 <p alight="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 <img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" width="400" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" width="500" height="300">
 
