@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats:
 <p alight="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
-<a>
-<img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" width="450" height="300">
-</a>
+
+<p alight="left"><img src="https://github-readme-stats.vercel.app/api?username=jeyla-danishyanabuzar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"></p>
+<p alight="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyla-danishyanabuzar&theme=buefy&hide_border=false" width="450" height="300"></p>
+
