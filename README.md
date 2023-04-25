@@ -1,9 +1,6 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hand wave" width="30px" height="30px">, I'm <strong><code style="backgroung:B79688;">Jeyla</code></strong></h1>
 
-- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233857695-9ec287a2-a1e3-4c97-83ba-880c46a4a6e6.png"/>Front-End Developer 
-- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858123-24e203e4-6f8d-4f59-b71a-a8d56a38e118.png" />UI Designer 
-- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858301-fcaa1d0b-b679-4883-988e-7991afc46bfc.png"/>Creator 
-- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/34037962/233858555-6c4f59ee-0f83-41d9-926f-a97d875d8ebe.png" />SMM Specialist
+Front-End Developer/ UI Designer/ Creator /SMM Specialist
 
 ##
 <h3 align="left">Front-end developer from Azerbaijan. I create digital applications with code and design. I am passionate about programming and like to create web applications in my spare time.</h3>
